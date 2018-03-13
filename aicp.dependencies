@@ -1,6 +1,6 @@
 [
 {
-    "repository": "boulzordev/androi_kernel_motorola_msm8953",
+    "repository": "boulzordev/android_kernel_motorola_msm8953",
     "target_path": "kernel/motorola/msm8953",
     "branch":      "lineage-15.1-64"
   },
