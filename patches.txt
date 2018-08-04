@@ -1,4 +1,6 @@
 # it is for all the need patches to be merged,
 # so we pull the patches from gerrit.
 #
+222458/1 https://review.lineageos.org external/f2fs-tools
+222459/2 https://review.lineageos.org external/f2fs-tools
 222460/1 https://review.lineageos.org external/f2fs-tools
