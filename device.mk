@@ -165,6 +165,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.renderscript@1.0-impl
 
+# Display Calibration
+ PRODUCT_PACKAGES += \
+    vendor.lineage.livedisplay@1.0-service-qdcm
+
 # DRM
 PRODUCT_PACKAGES += \
     libprotobuf-cpp-lite \
