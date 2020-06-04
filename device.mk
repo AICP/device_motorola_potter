@@ -455,4 +455,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_BOOT_JARS += \
     WfdCommon
 
+# JamesDSPManager
+PRODUCT_PACKAGES += \
+    JamesDSPManager
+
 $(call inherit-product, vendor/motorola/potter/potter-vendor.mk)
