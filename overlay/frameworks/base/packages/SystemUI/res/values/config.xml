@@ -29,5 +29,6 @@
          increase the rate of unintentional unlocks. -->
     <bool name="config_lockscreenAntiFalsingClassifierEnabled">false</bool>
 
+    <integer name="config_maxVisibleNotificationIcons">6</integer>
 </resources>
 
