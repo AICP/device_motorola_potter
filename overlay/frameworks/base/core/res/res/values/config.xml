@@ -540,4 +540,7 @@
 
     <!-- enable LiveDisplay. -->
     <bool name="config_liveDisplayAvailable">true</bool>
+
+    <!-- Whether the always on display mode is available. -->
+    <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
 </resources>
